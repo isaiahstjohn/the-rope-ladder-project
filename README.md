@@ -31,3 +31,31 @@ day to learn.
 Finally, we can create and share
 resources with one another to save
 each other time.
+
+## Challenges
+- Forgetting over time
+
+Spaced rep
+
+- Limited time to study
+Creative techniques
+
+- Limited time to create study aids
+Share resources
+
+- Technology fads go out of style
+after learning them
+Prioritize learning time-tested 
+technology:
+SQL, HTML, CSS, JS, Python, Ruby,
+Java
+
+De-emphasize quickly changing and
+possible fad tech:
+React, Vue, Angular, and other 
+libraries and frameworks. Go, Rust, 
+Crystal, Nim, Typescript, Flow,
+and other newer languages.
+
+Learn a framework as a very last step
+
